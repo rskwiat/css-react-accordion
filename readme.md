@@ -3,7 +3,7 @@
 A CSS3 based Accordian built with ReactJS
 
 
-
 ## Todos
 
-Optimize workflow
+* Add in Express backend to serve content
+* Clean up styling
